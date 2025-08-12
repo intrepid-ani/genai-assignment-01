@@ -1,3 +1,4 @@
+<img width="1321" height="651" alt="image" src="https://github.com/user-attachments/assets/8691120b-2b2f-4e96-b198-fff67563d848" />
 # GenAI Tokenizer (Assignment-01)
 
 This is a small React app I made for learning how tokenization works.  
